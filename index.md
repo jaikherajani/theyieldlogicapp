@@ -6,5 +6,5 @@ layout: default
 
 Welcome to YieldLogic. Please find our legal and privacy policies below:
 
-- [Privacy Policy](/privacy-policy/)
-- [Terms of Service](/terms-of-service/)
+- [Privacy Policy](./privacy-policy)
+- [Terms of Service](./terms-of-service)

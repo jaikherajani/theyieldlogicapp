@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Terms of Service
-permalink: /terms-of-service/
 ---
 # Terms of Service
 
@@ -217,7 +216,7 @@ All property data, scenarios, and analyses you create are stored locally on your
 
 Sign In with Apple is used solely for authentication. The developer does not store your Apple ID credentials.
 
-For full details, please refer to our [Privacy Policy](/privacy-policy/).
+For full details, please refer to our [Privacy Policy](./privacy-policy).
 
 ---
 
