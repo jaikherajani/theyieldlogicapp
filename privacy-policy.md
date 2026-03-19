@@ -12,7 +12,7 @@ Your privacy is important to us. This policy explains what data YieldLogic colle
 
 ## 1. Who We Are
 
-YieldLogic is an independently developed iOS application for personal property investment analysis. The developer is an individual, not a registered company or corporation.
+YieldLogic (also referred to as "The Yield Logic App", "The Yield Logic", "Yield Logic", or "theyieldlogic" in various contexts) is an independently developed iOS application for personal property investment analysis. The developer is an individual, not a registered company or corporation.
 
 Contact: [jai.kherajani19@icloud.com](mailto:jai.kherajani19@icloud.com)
 

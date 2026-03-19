@@ -12,7 +12,7 @@ Please read these terms carefully before using YieldLogic.
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using YieldLogic ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using YieldLogic (also referred to as "The Yield Logic App", "The Yield Logic", "Yield Logic", or "theyieldlogic" in various contexts, collectively "the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 These Terms apply to all users of the App regardless of location or market selected.
 
