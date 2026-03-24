@@ -4,7 +4,7 @@ title: Terms of Service
 ---
 # Terms of Service
 
-**Last updated: 20 March 2026**
+**Last updated: 24 March 2026**
 
 Please read these terms carefully before using YieldLogic.
 
@@ -82,6 +82,13 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOP
 - Real estate transactions, property purchases, or financing arrangements made based on App outputs
 
 THIS LIMITATION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF THE DEVELOPER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+**Liability Cap:**
+In no event shall the developer's total cumulative liability to you for all claims arising out of or relating to these Terms or the App exceed the **lesser of**:
+- (a) three (3) times the monthly Pro subscription fee applicable at the time the claim arises; or
+- (b) the total amount actually paid by you to the developer in the twelve (12) months preceding the claim.
+
+If you have not made any payment to the developer (e.g. you are using the free tier), the developer's total liability to you shall be **zero (USD $0.00)**. By using the App without payment, you acknowledge that no monetary consideration has been exchanged and that you have no basis for a monetary damages claim against the developer.
 
 If you rely on any output from this App to make a real financial decision and suffer a loss, the developer accepts no responsibility or liability for that loss.
 
