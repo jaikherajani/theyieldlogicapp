@@ -4,7 +4,7 @@ title: Terms of Service
 ---
 # Terms of Service
 
-**Last updated: 24 March 2026**
+**Last updated: 28 March 2026**
 
 Please read these terms carefully before using YieldLogic.
 
@@ -260,7 +260,7 @@ The Developer does not have the technical capability and is under no obligation 
 
 ## 18. Governing Law and Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to its conflict of law provisions. Any disputes or proceedings arising from these Terms or your use of the App that are not subject to arbitration shall be subject to the exclusive jurisdiction of the competent courts located in the Developer's place of residence (India), unless otherwise required by applicable law.
+These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to its conflict of law provisions. Any disputes or proceedings arising from these Terms or your use of the App that are not subject to arbitration shall be subject to the exclusive jurisdiction of the competent courts located in the Developer's place of residence (**India**), unless otherwise required by applicable law.
 
 If you are a consumer in a jurisdiction where mandatory consumer protection laws apply (including the United States, Canada, European Union, United Kingdom, or Australia), those laws may provide you with rights that cannot be waived by contract. Nothing in these Terms limits any rights you have under such mandatory local law.
 
