@@ -10,15 +10,17 @@ Please read these terms carefully before using YieldLogic.
 
 ---
 
-## 1. Acceptance of Terms
+## 1. Acceptance of Terms & Entity Definition
 
-By downloading, installing, or using YieldLogic (also referred to as "The Yield Logic App", "The Yield Logic", "Yield Logic", or "theyieldlogic" in various contexts, collectively "the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using YieldLogic (also referred to as "The Yield Logic App", "The Yield Logic", "Yield Logic", or "theyieldlogic" in various contexts, collectively "the App"), you agree to be bound by these Terms of Service ("Terms"). 
 
-These Terms apply to all users of the App regardless of location or market selected.
+"Developer" refers exclusively to the individual creator and operator of the App. If you do not agree to these Terms, do not use the App. These Terms apply to all users of the App regardless of location or market selected.
 
 ---
 
 ## 2. Nature of the App — Educational Use Only
+
+The App is an independently developed software tool created and maintained by an individual developer. It is provided for informational and computational purposes only and does not constitute professional services of any kind. 
 
 YieldLogic is a personal finance calculator and educational tool designed to help individuals explore property investment mathematics. It is intended solely for personal, non-commercial, educational use.
 
@@ -75,15 +77,15 @@ Calculations are based entirely on the data you enter. The App does not access l
 
 ## 5. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOPER, ITS AFFILIATES, LICENSORS, OR SERVICE PROVIDERS BE LIABLE FOR ANY:
-- Direct, indirect, incidental, special, consequential, or punitive damages
-- Financial loss, loss of investment, loss of income, or loss of profit
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF OR RELATED TO THE USE OF THE APP, INCLUDING, BUT NOT LIMITED TO:
+- Direct, indirect, incidental, consequential, or special damages
+- Loss of profits, revenue, business opportunity, or investment losses
 - Loss of data or loss of goodwill
 - Investment decisions made in reliance on the App's outputs, underlying logic, or formulas
 - Real estate transactions, property purchases, or financing arrangements made based on App outputs
 - Loss of revenue or other losses resulting from user inputs, assumptions, or reliance on the App's accuracy regarding any specific rental strategy (whether built-in or user-defined)
 
-THIS LIMITATION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF THE DEVELOPER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+This limitation applies independently of whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, and even if the Developer has been advised of the possibility of such damage.
 
 **Liability Cap:**
 In no event shall the developer's total cumulative liability to you for all claims arising out of or relating to these Terms or the App exceed the total amount actually paid by you to the developer in the twelve (12) months preceding the claim.
@@ -182,35 +184,36 @@ YieldLogic offers optional paid subscriptions and a one-time lifetime purchase (
 
 ## 11. Indemnification
 
-You agree to indemnify, defend, and hold harmless the developer and its officers, employees, agents, successors, and assigns from and against any and all claims, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or relating to:
-- Your use of or reliance on the App or its outputs
-- Any property investment decision you make based on the App's calculations or scores
-- Your breach of these Terms
-- Your violation of any applicable law or regulation
-- Any content or data you input into the App
+The User agrees to indemnify and hold harmless the Developer from and against any and all claims, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or relating to:
+- (a) Misuse of the App, including reliance on the App's outputs for real financial decisions
+- (b) Violation of these Terms
+- (c) Violation of any applicable laws or regulations
 
-This indemnification obligation will survive termination of these Terms and your use of the App.
+This indemnification obligation will survive termination of these Terms and your use of the App. This does not apply to claims arising from the Developer’s willful misconduct where such limitation of indemnification is not permitted by law.
 
 ---
 
-## 12. Termination
+## 12. Termination and Availability
 
-**By You:**
-- You may stop using the App at any time by deleting it from your device. Cancelling your subscription (if applicable) must be done separately through your Apple ID account settings.
+The App is provided as-is and may be modified, discontinued, or made unavailable at any time without notice. The Developer does not guarantee continued availability, access, or uptime of the App. 
 
-**By the Developer:**
-- The developer reserves the right to discontinue, modify, or shut down the App or any of its features at any time, with or without notice. The developer has no obligation to maintain the App or keep it available.
-- In the event the App is discontinued, no refund will be issued for any remaining subscription period beyond what Apple's refund policy provides.
+The User acknowledges that access to the App may cease at any time, and the Developer shall not be liable for any resulting impact. In the event the App is discontinued, no refund will be issued for any remaining subscription period beyond what Apple's refund policy provides.
 
 **Effect of Termination:**
-- Upon termination or discontinuation of the App, your right to use the App ceases immediately. Provisions of these Terms that by their nature should survive (including Sections 4, 5, 11, and 15) will continue to apply.
+- Upon discontinuation of the App, your right to use the App ceases immediately. Provisions of these Terms that by their nature should survive (including Sections 4, 5, 11, and 16) will continue to apply.
 
 ---
 
 ## 13. Dispute Resolution and Class Action Waiver
 
 **Informal Resolution:**
-- Before initiating any formal proceeding, you agree to contact the developer at [jai.kherajani19@icloud.com](mailto:jai.kherajani19@icloud.com) and attempt to resolve the dispute informally for at least 30 days.
+- Before initiating any formal proceeding, you agree to contact the Developer at [jai.kherajani19@icloud.com](mailto:jai.kherajani19@icloud.com) and attempt to resolve the dispute informally for at least 30 days.
+
+**Arbitration & Remote Proceedings:**
+- Where permitted by law, disputes shall be resolved through binding arbitration on an individual basis. To the extent permitted by law, disputes and arbitration may be resolved through remote or virtual proceedings where feasible.
+
+**Cost Allocation:**
+- Each party shall bear its own legal costs and expenses, except where otherwise expressly required by applicable law.
 
 **Class Action Waiver:**
 - TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT AS A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION. YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
@@ -219,17 +222,25 @@ This waiver does not apply where prohibited by law, including in jurisdictions w
 
 ---
 
-## 14. User Data and Privacy
+## 14. User Data and No Centralized Control
 
-All property data, scenarios, and analyses you create are stored locally on your device and, if enabled, synced privately via iCloud. The developer does not collect, access, or transmit your personal financial data to any third-party server.
+The App relies entirely on your existing Apple ID for access and does not maintain an independent or centralized user account system on any Developer-owned servers. All property data, scenarios, and analyses you create are stored locally on your device and, if enabled, synced privately via Apple's iCloud infrastructure. Sign In with Apple is used solely for authentication and subscription management.
 
-Sign In with Apple is used solely for authentication. The developer does not store your Apple ID credentials.
+Because there is no centralized Developer-owned database of users, the Developer does not have the ability to monitor, restrict, warn, or control individual user access to the App, nor does the Developer store your Apple ID credentials or process your personal financial data.
 
 For full details, please refer to our [Privacy Policy](./privacy-policy).
 
 ---
 
-## 15. Intellectual Property
+## 15. Third-Party Infrastructure
+
+The App is hosted on third-party infrastructure (such as Apple's App Store and iCloud) and depends on these external services for data syncing and authentication.
+
+The Developer does not control and is not responsible for outages, interruptions, data loss, or failures caused by such third-party services.
+
+---
+
+## 16. Intellectual Property
 
 The App, including its design, code, content, and scoring methodology, is the intellectual property of the developer. You may not reproduce, redistribute, reverse-engineer, or create derivative works from the App without express written permission.
 
@@ -237,33 +248,31 @@ Users may generate and export PDF reports for personal use only. The inclusion o
 
 ---
 
-## 16. Changes to These Terms
+## 17. Changes to These Terms
 
-The developer reserves the right to update, modify, or replace these Terms at any time and at the developer's sole discretion, **without prior notice** to you.
+These Terms may be updated from time to time by posting the revised version on this URL. The developer reserves the right to modify these Terms at any time without prior notice.
 
-Changes take effect immediately upon the updated Terms being published at this URL. The "Last updated" date at the top of this document reflects the most recent revision.
+Continued use of the App after any changes constitutes your acceptance of the updated Terms. The User is responsible for reviewing the Terms periodically. 
 
-Your continued use of the App after any changes constitutes your acceptance of the revised Terms. If you do not agree to the updated Terms, you must stop using the App. It is your responsibility to review these Terms periodically.
-
-The developer is under no obligation to notify users individually of any changes to these Terms.
+The Developer does not have the technical capability and is under no obligation to notify users individually of any changes to these Terms.
 
 ---
 
-## 17. Governing Law
+## 18. Governing Law and Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to its conflict of law provisions. Any disputes arising from these Terms or your use of the App that cannot be resolved informally shall be subject to the jurisdiction of the competent courts located in India.
+These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to its conflict of law provisions. Any disputes or proceedings arising from these Terms or your use of the App that are not subject to arbitration shall be subject to the exclusive jurisdiction of the competent courts located in the Developer's place of residence (India), unless otherwise required by applicable law.
 
 If you are a consumer in a jurisdiction where mandatory consumer protection laws apply (including the United States, Canada, European Union, United Kingdom, or Australia), those laws may provide you with rights that cannot be waived by contract. Nothing in these Terms limits any rights you have under such mandatory local law.
 
 ---
 
-## 18. Severability
+## 19. Severability
 
 If any provision of these Terms is found to be unenforceable or invalid under applicable law, that provision shall be modified to the minimum extent necessary to make it enforceable, or severed if modification is not possible. The remaining provisions shall continue in full force and effect.
 
 ---
 
-## 19. Contact
+## 20. Contact
 
 If you have any questions about these Terms, please contact us at:
 
