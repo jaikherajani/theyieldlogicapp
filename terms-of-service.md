@@ -20,9 +20,7 @@ By downloading, installing, or using YieldLogic (also referred to as "The Yield 
 
 ## 2. Nature of the App — Educational Use Only
 
-The App is an independently developed software tool created and maintained by an individual developer. It is provided for informational and computational purposes only and does not constitute professional services of any kind. 
-
-YieldLogic is a personal finance calculator and educational tool designed to help individuals explore property investment mathematics. It is intended solely for personal, non-commercial, educational use.
+YieldLogic is an independently developed software tool created and maintained by an individual developer. It is designed to help individuals explore property investment mathematics and is provided strictly for personal, non-commercial, and educational purposes. The App does not constitute professional services or advice of any kind.
 
 **The App is NOT:**
 - A licensed financial advisory service
@@ -39,7 +37,7 @@ The developer of YieldLogic is not a registered financial advisor, investment ad
 ## 3. Permitted and Prohibited Use
 
 **Permitted Use:**
-You may use YieldLogic solely for your own personal, private, and non-commercial purposes, including:
+You may use YieldLogic solely for your own personal, private, non-commercial and educational purposes, including:
 - Testing hypothetical mathematical scenarios and learning how various financial variables interact in a property context
 - Learning about property investment mathematics and financial metrics
 - Educating yourself on educational rental yield, cash flow, and return concepts
@@ -91,9 +89,9 @@ This limitation applies independently of whether the alleged liability is based 
 The App does not cause, influence, direct, or participate in your financial decisions. The causal chain between the App's outputs and any financial loss is expressly severed.
 
 **Liability Cap:**
-In no event shall the developer's total cumulative liability to you for all claims arising out of or relating to these Terms or the App exceed the total amount actually paid by you to the developer in the twelve (12) months preceding the claim.
+In no event shall the developer's total cumulative liability to you for all claims arising out of or relating to these Terms or the App exceed the total amount actually paid by you to the developer in the three (3) months preceding the claim.
 
-If you have not made any payment to the developer (e.g. you are using the free tier), the developer's total liability to you shall be **limited to a maximum of One US Dollar (USD $1.00)**. This limitation of liability applies heavily to your acknowledgment that the App is a free educational tool and the developer would not provide the App without such strict limitations.
+If you have not made any payment to the developer (e.g. you are using the free tier, or no payment to app developer in three (3) months preceding the claim etc.), the developer's total liability to you shall be **limited to a maximum of One US Dollar (USD $1.00)**. This limitation of liability applies heavily to your acknowledgment that the App is a free educational tool and the developer would not provide the App without such strict limitations.
 
 If you rely on any output from this App to make a real financial decision and suffer a loss, the developer accepts no responsibility or liability for that loss.
 
