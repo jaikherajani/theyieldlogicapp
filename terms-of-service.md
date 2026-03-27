@@ -67,6 +67,7 @@ To the maximum extent permitted by applicable law, the developer expressly discl
 - Warranties that the App will be uninterrupted, error-free, or free of harmful components
 - Warranties that calculations, projections, or outputs are accurate, complete, current, or reliable
 - Warranties that the App will meet your requirements or produce any particular result
+- Guarantees of future profits, specific financial gains, or successful real estate investments
 
 Calculations are based entirely on the data you enter. The App does not access live market data, real-time interest rates, actual vacancy rates, or current property prices. Results are illustrative estimates only.
 
@@ -78,15 +79,14 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE DEVELOP
 - Direct, indirect, incidental, special, consequential, or punitive damages
 - Financial loss, loss of investment, loss of income, or loss of profit
 - Loss of data or loss of goodwill
-- Investment decisions made in reliance on the App's outputs
+- Investment decisions made in reliance on the App's outputs, underlying logic, or formulas
 - Real estate transactions, property purchases, or financing arrangements made based on App outputs
+- Loss of revenue or other losses resulting from user inputs, assumptions, or reliance on the App's accuracy regarding any specific rental strategy (whether built-in or user-defined)
 
 THIS LIMITATION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF THE DEVELOPER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 **Liability Cap:**
-In no event shall the developer's total cumulative liability to you for all claims arising out of or relating to these Terms or the App exceed the **lesser of**:
-- (a) three (3) times the monthly Pro subscription fee applicable at the time the claim arises; or
-- (b) the total amount actually paid by you to the developer in the twelve (12) months preceding the claim.
+In no event shall the developer's total cumulative liability to you for all claims arising out of or relating to these Terms or the App exceed the total amount actually paid by you to the developer in the twelve (12) months preceding the claim.
 
 If you have not made any payment to the developer (e.g. you are using the free tier), the developer's total liability to you shall be **zero (USD $0.00)**. By using the App without payment, you acknowledge that no monetary consideration has been exchanged and that you have no basis for a monetary damages claim against the developer.
 
@@ -126,9 +126,11 @@ The App's deal scores (Good Deal, Looks OK, Think Twice) are simplified heuristi
 
 ---
 
-## 8. No Capital Appreciation Modelling
+## 8. Wealth Projections and Capital Appreciation
 
-YieldLogic analyses rental income economics only. The App does not model or predict:
+The App provides mathematical tools for users to input their own hypothetical appreciation percentages. Any resulting wealth projections or IRR figures are purely illustrative based on these user-defined variables and do not constitute a prediction of future market performance.
+
+YieldLogic does not independently model or predict:
 - Future property price appreciation or depreciation
 - Capital gains tax obligations
 - Total return including capital growth
@@ -231,6 +233,8 @@ For full details, please refer to our [Privacy Policy](./privacy-policy).
 
 The App, including its design, code, content, and scoring methodology, is the intellectual property of the developer. You may not reproduce, redistribute, reverse-engineer, or create derivative works from the App without express written permission.
 
+Users may generate and export PDF reports for personal use only. The inclusion of the 'YieldLogic' branding on these reports does not imply that the developer has audited, verified, or endorsed the underlying data or the resulting analysis.
+
 ---
 
 ## 16. Changes to These Terms
@@ -249,7 +253,7 @@ The developer is under no obligation to notify users individually of any changes
 
 These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to its conflict of law provisions. Any disputes arising from these Terms or your use of the App that cannot be resolved informally shall be subject to the jurisdiction of the competent courts located in India.
 
-If you are a consumer in a jurisdiction where mandatory consumer protection laws apply (including the European Union, United Kingdom, or Australia), those laws may provide you with rights that cannot be waived by contract. Nothing in these Terms limits any rights you have under such mandatory local law.
+If you are a consumer in a jurisdiction where mandatory consumer protection laws apply (including the United States, Canada, European Union, United Kingdom, or Australia), those laws may provide you with rights that cannot be waived by contract. Nothing in these Terms limits any rights you have under such mandatory local law.
 
 ---
 
