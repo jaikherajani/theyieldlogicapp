@@ -194,6 +194,8 @@ The User agrees to indemnify and hold harmless the Developer from and against an
 
 This indemnification obligation will survive termination of these Terms and your use of the App. This does not apply to claims arising from the Developer’s willful misconduct where such limitation of indemnification is not permitted by law.
 
+To the extent consumer protection laws applicable in your jurisdiction limit or prohibit consumer-to-provider indemnification obligations, this clause applies only to the maximum extent permitted under those laws.
+
 ---
 
 ## 12. Termination and Availability
@@ -214,6 +216,9 @@ The User acknowledges that access to the App may cease at any time, and the Deve
 
 **Mandatory Arbitration & Remote Proceedings:**
 - Any and all disputes shall be resolved exclusively through final and binding arbitration on an individual basis. To the extent permitted by law, disputes and arbitration may be resolved through remote or virtual proceedings where feasible.
+
+**Consumer Forum Carve-Out:**
+- Notwithstanding the above, to the extent mandatory arbitration is unenforceable under applicable consumer protection law in your jurisdiction (including the European Union, United Kingdom, India, and Australia), you retain the right to bring claims before competent courts or consumer forums in your jurisdiction.
 
 **Cost Allocation:**
 - Each party shall bear its own legal costs and expenses, except where otherwise expressly required by applicable law.
@@ -275,7 +280,13 @@ If any provision of these Terms is found to be unenforceable or invalid under ap
 
 ---
 
-## 20. Contact
+## 20. Entire Agreement
+
+These Terms, together with the Privacy Policy available at the developer's website, constitute the entire agreement between you and the Developer with respect to the App and supersede all prior or contemporaneous communications, representations, warranties, or agreements, whether written or oral, relating to the App. No statement made in App Store descriptions, screenshots, marketing materials, or other promotional content shall modify, supplement, or form part of these Terms.
+
+---
+
+## 21. Contact
 
 If you have any questions about these Terms, please contact us at:
 

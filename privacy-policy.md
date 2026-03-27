@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 # Privacy Policy
 
-**Last updated: 20 March 2026**
+**Last updated: 28 March 2026**
 
 Your privacy is important to us. This policy explains what data YieldLogic collects, how it is used, and your rights.
 
@@ -50,6 +50,8 @@ All property analyses, scenarios, and financial data you create are stored:
 - In your private iCloud account (if iCloud sync is enabled on your device), using Apple's CloudKit framework
 
 The developer does not operate any servers, databases, or cloud infrastructure of their own. Your financial data never leaves the Apple ecosystem.
+
+In addition, photos and documents you attach to property income and expense records are stored in a folder in your iCloud Drive, visible in the Files app under **iCloud Drive → YieldLogic**. This folder belongs to you and is fully under your control. The app does not delete files from this folder when you delete property records — you manage these files directly.
 
 Your Sign In with Apple credentials are stored securely in your device's Keychain. The developer cannot access your Keychain.
 
@@ -103,6 +105,7 @@ Your data is retained on your device and iCloud account for as long as you use t
 
 **To delete all data and close your account:**
 - Go to Settings → Account → "Delete Account & Data". This permanently removes all properties, scenarios, and settings from your device and iCloud. This cannot be undone.
+- **Note:** Attachment files (photos and documents) stored in your iCloud Drive under Files app → YieldLogic are intentionally not deleted by this action — they are your personal files and you retain full control over them. To remove them, delete the YieldLogic folder manually in Files.app or via [icloud.com](https://www.icloud.com).
 
 **To remove iCloud data manually (if you have already uninstalled the app):**
 - Go to iOS Settings → [Your Name] → iCloud → Manage Storage → YieldLogic → Delete Data.
@@ -128,7 +131,7 @@ Because all your data is stored locally on your device and in your own iCloud ac
 - **To access your data:** it is available directly within the app.
 - **To correct your data:** edit or delete entries directly in the app.
 - **To delete your data:** see Section 8 above.
-- **To export your data:** in-app export is not currently supported. Your data is stored in your private iCloud account and is accessible through Apple's iCloud platform.
+- **To export your data:** Your data is stored directly on your device and in your private iCloud account — you already hold the only copy. This inherently satisfies your right to data portability under applicable data protection law. Machine-readable export within the app is not currently available.
 
 If you have a question about your data that is not answered here, you may contact us (see Section 12), though our ability to assist is limited given we hold no copy of your data.
 
