@@ -40,9 +40,9 @@ The developer of YieldLogic is not a registered financial advisor, investment ad
 
 **Permitted Use:**
 You may use YieldLogic solely for your own personal, private, and non-commercial purposes, including:
-- Evaluating potential property investments for your own consideration
+- Testing hypothetical mathematical scenarios and learning how various financial variables interact in a property context
 - Learning about property investment mathematics and financial metrics
-- Educating yourself on rental yield, cash flow, and return concepts
+- Educating yourself on educational rental yield, cash flow, and return concepts
 
 **Prohibited Use:**
 You may NOT use this App or its outputs to:
@@ -87,10 +87,13 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER SHALL NOT BE LI
 
 This limitation applies independently of whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, and even if the Developer has been advised of the possibility of such damage.
 
+**No Causation:**
+The App does not cause, influence, direct, or participate in your financial decisions. The causal chain between the App's outputs and any financial loss is expressly severed.
+
 **Liability Cap:**
 In no event shall the developer's total cumulative liability to you for all claims arising out of or relating to these Terms or the App exceed the total amount actually paid by you to the developer in the twelve (12) months preceding the claim.
 
-If you have not made any payment to the developer (e.g. you are using the free tier), the developer's total liability to you shall be **zero (USD $0.00)**. By using the App without payment, you acknowledge that no monetary consideration has been exchanged and that you have no basis for a monetary damages claim against the developer.
+If you have not made any payment to the developer (e.g. you are using the free tier), the developer's total liability to you shall be **limited to a maximum of One US Dollar (USD $1.00)**. This limitation of liability applies heavily to your acknowledgment that the App is a free educational tool and the developer would not provide the App without such strict limitations.
 
 If you rely on any output from this App to make a real financial decision and suffer a loss, the developer accepts no responsibility or liability for that loss.
 
@@ -98,7 +101,7 @@ If you rely on any output from this App to make a real financial decision and su
 
 ## 6. Accuracy of Calculations
 
-While the developer endeavours to implement standard property investment formulas correctly, no guarantee is made regarding the accuracy of any calculation, projection, or metric produced by the App.
+While the developer endeavours to implement standard property investment formulas correctly, no guarantee is made regarding the accuracy of any calculation, projection, or metric produced by the App. The App's outputs may be materially incorrect, misleading, or entirely inaccurate. The user can have no reasonable expectation of correctness.
 
 Real-world investment outcomes depend on many factors the App cannot model, including but not limited to:
 - Actual occupancy and vacancy periods
@@ -115,7 +118,9 @@ Always verify calculations independently and consult qualified professionals bef
 
 ---
 
-## 7. Consult Qualified Professionals
+## 7. Consult Qualified Professionals & No Reliance
+
+**By using the App, you explicitly affirm that you are NOT relying on the App for any financial or investment decision, even partially.**
 
 Before making any property investment decision, you should consult with one or more of the following as appropriate to your circumstances:
 - A licensed financial advisor or investment advisor registered in your jurisdiction
@@ -124,7 +129,7 @@ Before making any property investment decision, you should consult with one or m
 - A qualified mortgage broker or lending specialist
 - A solicitor or conveyancer for legal matters relating to property purchase
 
-The App's deal scores (Good Deal, Looks OK, Think Twice) are simplified heuristics based on general rental income thresholds. They do not constitute a recommendation to buy, hold, or sell any property.
+**THE APP IS EXPRESSLY NOT SUITABLE FOR USE AS A BASIS FOR ACTUAL FINANCIAL DECISIONS.** The App's "deal scores" (Good Deal, Looks OK, Think Twice) are arbitrary mathematical demonstrations based on general rental income thresholds. They are not functional deal evaluators, nor do they constitute a recommendation to buy, hold, or sell any property.
 
 ---
 
@@ -209,8 +214,8 @@ The User acknowledges that access to the App may cease at any time, and the Deve
 **Informal Resolution:**
 - Before initiating any formal proceeding, you agree to contact the Developer at [jai.kherajani19@icloud.com](mailto:jai.kherajani19@icloud.com) and attempt to resolve the dispute informally for at least 30 days.
 
-**Arbitration & Remote Proceedings:**
-- Where permitted by law, disputes shall be resolved through binding arbitration on an individual basis. To the extent permitted by law, disputes and arbitration may be resolved through remote or virtual proceedings where feasible.
+**Mandatory Arbitration & Remote Proceedings:**
+- Any and all disputes shall be resolved exclusively through final and binding arbitration on an individual basis. To the extent permitted by law, disputes and arbitration may be resolved through remote or virtual proceedings where feasible.
 
 **Cost Allocation:**
 - Each party shall bear its own legal costs and expenses, except where otherwise expressly required by applicable law.
@@ -226,7 +231,7 @@ This waiver does not apply where prohibited by law, including in jurisdictions w
 
 The App relies entirely on your existing Apple ID for access and does not maintain an independent or centralized user account system on any Developer-owned servers. All property data, scenarios, and analyses you create are stored locally on your device and, if enabled, synced privately via Apple's iCloud infrastructure. Sign In with Apple is used solely for authentication and subscription management.
 
-Because there is no centralized Developer-owned database of users, the Developer does not have the ability to monitor, restrict, warn, or control individual user access to the App, nor does the Developer store your Apple ID credentials or process your personal financial data.
+Because there is no centralized Developer-owned database of users, the Developer does not have the technical or administrative ability to monitor, restrict, warn, or control individual user access to the App. The Developer has no ability to correct user misuse, verify user inputs, or prevent user reliance on the App's outputs. Furthermore, the Developer does not store your Apple ID credentials or process your personal financial data.
 
 For full details, please refer to our [Privacy Policy](./privacy-policy).
 
@@ -254,7 +259,7 @@ These Terms may be updated from time to time by posting the revised version on t
 
 Continued use of the App after any changes constitutes your acceptance of the updated Terms. The User is responsible for reviewing the Terms periodically. 
 
-The Developer does not have the technical capability and is under no obligation to notify users individually of any changes to these Terms.
+The Developer does not maintain a direct communication channel with users (such as an email database) to notify them individually of changes. Instead, the Developer will communicate significant changes to these Terms via a prominent notice within the App interface or via standard App Store release notes.
 
 ---
 
