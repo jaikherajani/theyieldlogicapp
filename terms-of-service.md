@@ -132,7 +132,7 @@ Before making any property investment decision, you should consult with one or m
 - A qualified mortgage broker or lending specialist
 - A solicitor or conveyancer for legal matters relating to property purchase
 
-**THE APP IS EXPRESSLY NOT SUITABLE FOR USE AS A BASIS FOR ACTUAL FINANCIAL DECISIONS.** The App's "deal scores" (Good Deal, Looks OK, Think Twice) are arbitrary mathematical demonstrations based on general rental income thresholds. They are not functional deal evaluators, nor do they constitute a recommendation to buy, hold, or sell any property.
+**THE APP IS EXPRESSLY NOT SUITABLE FOR USE AS A BASIS FOR ACTUAL FINANCIAL DECISIONS.** The App's scenario scores (Strong Numbers, Moderate Numbers, Weak Numbers) are simplified illustrative thresholds for educational purposes only, based on general rental income inputs entered by the user. They are not investment ratings, functional deal evaluators, or recommendations to buy, hold, or sell any property.
 
 ---
 
@@ -146,13 +146,21 @@ YieldLogic does not independently model or predict:
 - Total return including capital growth
 - Inflation-adjusted returns
 
-A property that scores "Think Twice" on rental income alone may still be a sound investment if capital appreciation is the primary thesis. A property that scores "Good Deal" on rental income may still be a poor investment overall. You must apply your own judgement and seek professional advice.
+A property that shows "Weak Numbers" on rental income alone may still be a sound investment if capital appreciation is the primary thesis. A property that shows "Strong Numbers" on rental income may still be a poor investment overall. You must apply your own judgement and seek professional advice.
 
 ---
 
 ## 9. Subscriptions, Billing, and Refunds
 
-YieldLogic offers optional paid subscriptions and a one-time lifetime purchase (collectively, "Pro") to unlock additional features.
+YieldLogic offers optional paid subscriptions and a one-time purchase (collectively, "Pro") to unlock additional features.
+
+**Nature of the One-Time Purchase:**
+Where the App offers or has offered a one-time purchase option (which may have been labelled "Lifetime" in prior versions of the App or in App Store marketing materials), the User expressly acknowledges and agrees that:
+
+- Such purchase constitutes solely a **single, non-recurring payment** in exchange for access to Pro features. The word "Lifetime", where used, refers exclusively to the payment structure — meaning you pay once and are not billed again on a recurring basis. It does not, under any circumstances, constitute a guarantee, warranty, representation, or contractual promise of perpetual, uninterrupted, or indefinite access to the App or its features.
+- Access to Pro features under a one-time purchase is contingent upon the App remaining commercially available and technically functional. It is expressly subject to the same terms of availability, discontinuation, and force majeure as any other access tier. See Sections 12 and 19.
+- In the event the App is discontinued, removed from the App Store, or rendered non-functional for any reason — including but not limited to the Developer's decision to cease operations, Apple's policies, or any governmental or regulatory action — the one-time purchase shall be treated identically to any other Pro tier: access terminates, and no refund, compensation, or substitute service shall be owed by the Developer.
+- The Developer makes no representation that the App will continue to exist, be maintained, or be available on any platform at any future point in time. A one-time purchase is a payment for current access to current features, not an investment in or claim over the App's future.
 
 **Billing and Payment:**
 - All purchases are processed by Apple Inc. through the App Store. Your payment method on file with Apple is charged at the time of purchase.
@@ -210,7 +218,10 @@ The App is provided as-is and may be modified, discontinued, or made unavailable
 The User acknowledges that access to the App may cease at any time, and the Developer shall not be liable for any resulting impact. In the event the App is discontinued, no refund will be issued for any remaining subscription period beyond what Apple's refund policy provides.
 
 **Effect of Termination:**
-- Upon discontinuation of the App, your right to use the App ceases immediately. Provisions of these Terms that by their nature should survive (including Sections 4, 5, 11, and 16) will continue to apply.
+- Upon discontinuation of the App, your right to use the App ceases immediately. Provisions of these Terms that by their nature should survive (including Sections 4, 5, 11, 17, and 19) will continue to apply.
+
+**Platform-Forced Discontinuation:**
+- If Apple Inc. removes the App from the App Store, modifies or discontinues App Store policies, terminates or restricts access to iCloud, CloudKit, StoreKit, or any other infrastructure upon which the App depends — or if any competent governmental or regulatory authority in any jurisdiction restricts, prohibits, or otherwise compels the removal or functional limitation of the App — the Developer shall not be held liable for the resulting unavailability or cessation of the App's functionality. Such events are entirely beyond the Developer's control. No refund will be issued in such circumstances, including to users who have purchased a lifetime licence or active subscription. The Developer's sole obligation in such an event is to remove the App from sale as promptly as practicable.
 
 ---
 
@@ -219,11 +230,14 @@ The User acknowledges that access to the App may cease at any time, and the Deve
 **Informal Resolution:**
 - Before initiating any formal proceeding, you agree to contact the Developer at [jai.kherajani19@icloud.com](mailto:jai.kherajani19@icloud.com) and attempt to resolve the dispute informally for at least 30 days.
 
-**Mandatory Arbitration & Remote Proceedings:**
-- Any and all disputes shall be resolved exclusively through final and binding arbitration on an individual basis. To the extent permitted by law, disputes and arbitration may be resolved through remote or virtual proceedings where feasible.
+**Governing Jurisdiction:**
+- Any and all disputes arising out of or relating to these Terms or the App that are not resolved informally shall be subject to the exclusive jurisdiction of the competent courts located in Bhopal, Madhya Pradesh, India. Both parties consent to personal jurisdiction in such courts.
+
+**Remote Proceedings:**
+- To the extent permitted by applicable court rules and procedures, the Developer may request that proceedings be conducted remotely or virtually where feasible.
 
 **Consumer Forum Carve-Out:**
-- Notwithstanding the above, to the extent mandatory arbitration is unenforceable under applicable consumer protection law in your jurisdiction (including the European Union, United Kingdom, India, and Australia), you retain the right to bring claims before competent courts or consumer forums in your jurisdiction.
+- Notwithstanding the above, to the extent applicable mandatory consumer protection law in your jurisdiction (including the European Union, United Kingdom, and Australia) entitles you to bring claims before courts or consumer forums in your own jurisdiction, those rights are not limited by these Terms.
 
 **Cost Allocation:**
 - Each party shall bear its own legal costs and expenses, except where otherwise expressly required by applicable law.
@@ -275,25 +289,38 @@ The Developer does not maintain a direct communication channel with users (such 
 
 ## 18. Governing Law and Jurisdiction
 
-These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to its conflict of law provisions. Any disputes or proceedings arising from these Terms or your use of the App that are not subject to arbitration shall be subject to the exclusive jurisdiction of the competent courts located in the Developer's place of residence (**India**), unless otherwise required by applicable law.
+These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to its conflict of law provisions. Any disputes or proceedings arising from these Terms or your use of the App shall be subject to the exclusive jurisdiction of the competent courts located in Bhopal, Madhya Pradesh, India, unless otherwise required by applicable mandatory law.
 
 If you are a consumer in a jurisdiction where mandatory consumer protection laws apply (including the United States, Canada, European Union, United Kingdom, or Australia), those laws may provide you with rights that cannot be waived by contract. Nothing in these Terms limits any rights you have under such mandatory local law.
 
 ---
 
-## 19. Severability
+## 19. Force Majeure
+
+The Developer shall not be liable for any failure or delay in the availability or functioning of the App arising from causes beyond the Developer's reasonable control, including but not limited to:
+
+- Actions or policies of Apple Inc., including removal of the App from the App Store, changes to App Store guidelines, or discontinuation of iCloud, CloudKit, StoreKit, or any other Apple platform service
+- Acts of any governmental or regulatory authority, including orders, injunctions, bans, or sanctions affecting the App or its distribution
+- Changes in applicable law that render the App's continued operation unlawful or impractical
+- Natural disasters, epidemics, acts of war, civil unrest, or other events of force majeure
+
+In any such event, these Terms shall remain in full force and effect to the extent applicable, and no refund or compensation shall be due to the User in respect of any subscription, lifetime purchase, or other payment made prior to the occurrence of the force majeure event.
+
+---
+
+## 20. Severability
 
 If any provision of these Terms is found to be unenforceable or invalid under applicable law, that provision shall be modified to the minimum extent necessary to make it enforceable, or severed if modification is not possible. The remaining provisions shall continue in full force and effect.
 
 ---
 
-## 20. Entire Agreement
+## 21. Entire Agreement
 
 These Terms, together with the Privacy Policy available at the developer's website, constitute the entire agreement between you and the Developer with respect to the App and supersede all prior or contemporaneous communications, representations, warranties, or agreements, whether written or oral, relating to the App. No statement made in App Store descriptions, screenshots, marketing materials, or other promotional content shall modify, supplement, or form part of these Terms.
 
 ---
 
-## 21. Contact
+## 22. Contact
 
 If you have any questions about these Terms, please contact us at:
 
