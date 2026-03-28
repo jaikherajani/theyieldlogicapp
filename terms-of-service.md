@@ -85,6 +85,11 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER SHALL NOT BE LI
 
 This limitation applies independently of whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, and even if the Developer has been advised of the possibility of such damage.
 
+**Data Loss Due to Software Defects:**
+The App is complex software and, despite the developer's best efforts to maintain stability, bugs, errors, or unexpected behaviour may occur in rare circumstances. In the event that a software defect, malfunction, crash, or any other unexpected App behaviour results in the partial or total loss of data entered or stored by you — including but not limited to property records, analyses, scenarios, income or expense entries, or attachments — the developer cannot recover that data on your behalf and accepts no liability for such loss.
+
+Because the App stores your data exclusively on your device and within your personal iCloud account, the developer never holds, possesses, has access to, or retains a copy of your data at any time. The developer therefore has no technical means to assist with data recovery and shall not be held responsible for any claims, damages, or losses of any kind arising from such data loss, howsoever caused, including losses arising directly or indirectly from a software defect or App malfunction.
+
 **No Causation:**
 The App does not cause, influence, direct, or participate in your financial decisions. The causal chain between the App's outputs and any financial loss is expressly severed.
 
@@ -235,6 +240,8 @@ This waiver does not apply where prohibited by law, including in jurisdictions w
 The App relies entirely on your existing Apple ID for access and does not maintain an independent or centralized user account system on any Developer-owned servers. All property data, scenarios, and analyses you create are stored locally on your device and, if enabled, synced privately via Apple's iCloud infrastructure. Sign In with Apple is used solely for authentication and subscription management.
 
 Because there is no centralized Developer-owned database of users, the Developer does not have the technical or administrative ability to monitor, restrict, warn, or control individual user access to the App. The Developer has no ability to correct user misuse, verify user inputs, or prevent user reliance on the App's outputs. Furthermore, the Developer does not store your Apple ID credentials or process your personal financial data.
+
+Because the Developer never holds or has access to a copy of your data, the Developer has no ability to assist with data recovery in any circumstance — including accidental deletion, device failure, iCloud sync errors, or data loss caused by a software defect or App malfunction. You are solely responsible for maintaining any independent backup of data that is important to you. See Section 5 for the full limitation of liability as it relates to data loss.
 
 For full details, please refer to our [Privacy Policy](./privacy-policy).
 
